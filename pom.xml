@@ -1,4 +1,15 @@
 <project>
+  <repositories>
+    <repository>
+      <id>central</id>
+      <name>Central Repository</name>
+      <url>https://repo.maven.apache.org/maven2</url>
+      <layout>default</layout>
+      <snapshots>
+        <enabled>false</enabled>
+      </snapshots>
+    </repository>
+  </repositories>
     <modelVersion>4.0.0</modelVersion>
     
     <groupId>engineer.projects.dataStructure</groupId>
