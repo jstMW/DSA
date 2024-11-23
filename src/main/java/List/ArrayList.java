@@ -1,4 +1,4 @@
-package src.main.java.List;
+package List;
 
 /**
  * Implementing array list using array!

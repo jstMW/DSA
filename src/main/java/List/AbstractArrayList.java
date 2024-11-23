@@ -1,4 +1,4 @@
-package src.main.java.List;
+package List;
 
 /**
  * the implementation of List using Array data structure

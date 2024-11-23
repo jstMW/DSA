@@ -1,4 +1,4 @@
-package src.main.java.List;
+package List;
 
 /**
  * General interface for the List data structure

@@ -1,9 +1,12 @@
-import org.junit.jupiter.api.assertions;
+package List;
+
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.Test;
 
 class ArrayListTest {
 
     @Test
     void it_works() {
-        assertEquals(2, 2, "it doesn't work");
+        Assertions.assertEquals(2, 2);
     }
 }
