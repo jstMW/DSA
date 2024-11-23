@@ -9,12 +9,15 @@
     <artifactId>dataStructure</artifactId>
     <version>0.1</version>
 
-    <dependency>
-        <groupId>junit</groupId>
-        <artifactId>junit</artifactId>
-        <scope>test</scope>
-        <version>5.11.3</version>
-    </dependency>
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <scope>test</scope>
+            <version>5.9.4</version>
+        </dependency>
+    </dependencies>
+
 	
 </project>
 
