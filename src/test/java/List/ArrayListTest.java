@@ -1,7 +1,7 @@
 package List;
 
 import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.Test;
+import org.junit.jupiter.api.Test;
 
 class ArrayListTest {
 
