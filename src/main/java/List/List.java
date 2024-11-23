@@ -1,3 +1,5 @@
+package src.main.java.List;
+
 /**
  * General interface for the List data structure
  * in which we are able to add/remove elements not
@@ -41,7 +43,7 @@ public interface List<T> {
      * remove the element at specifed index
      * 
      * @param index to locate the value
-     * @return it is purefunction 
+     * @return it is purefunction
      */
     void remove(int index);
 

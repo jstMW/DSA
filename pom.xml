@@ -1,3 +1,11 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    
+    <groupId>engineer.projects.dataStructure</groupId>
+    <artifactId>dataStructure</artifactId>
+    <version>0</version>
+</project>
+
 <dependency>
 	<groupId>junit</groupId>
 	<artifactId>junit</artifactId>
